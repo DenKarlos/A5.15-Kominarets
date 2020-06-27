@@ -1,0 +1,32 @@
+   h1 {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 24px;
+    text-transform: uppercase;
+   }
+   
+   .container {
+    padding: 40px 0;
+       }
+   
+   button {
+    height: 30px;
+    padding: 0 .75rem;
+   }
+   
+   .result {
+    width: 70%;
+    font-size: 30px;
+    margin: 0 auto;
+    margin-top: 10px;
+   }
+   
+   .btn {
+    padding: 0 5px;
+   }
+
+   .col-12{
+       margin-top: 20px;
+       display: flex;
+       justify-content: space-around;
+   }
